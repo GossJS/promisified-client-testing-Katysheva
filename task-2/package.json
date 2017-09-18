@@ -1,0 +1,16 @@
+{
+  "name": "node-lecture-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "skogtake",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.3",
+    "should": "^13.0.1",
+    "zombie": "^5.0.7"
+  }
+}
